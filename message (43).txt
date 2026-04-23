@@ -1548,7 +1548,7 @@ UIS.InputBegan:Connect(function(input, processed)
 end)
 
 --// MOD LOGS
-local groupId = 126364592
+local groupId = 40382415
 local notificationMessage = "mod detected"
 local specialUserIds = {72521798, 7794444637, 2815508189, 6203233210, 555909464, 350124454, 5637396}
 local notifierEnabled = true
